@@ -1,1 +1,35 @@
-
+[
+  {
+    "version": "1.2.0",
+    "date": "2026-10-29",
+    "title": "Refonte de l'emploi du temps",
+    "changes": [
+      {
+        "type": "improved",
+        "text": "Refonte complète et optimisation des performances de l'emploi du temps"
+      }
+    ]
+  },
+  {
+    "version": "1.1.0",
+    "date": "2026-10-10",
+    "title": "Arrivée du mode clair",
+    "changes": [
+      {
+        "type": "new",
+        "text": "Ajout du mode clair pour une interface lumineuse"
+      }
+    ]
+  },
+  {
+    "version": "1.0.0",
+    "date": "2026-09-13",
+    "title": "Premier déploiement de l'application",
+    "changes": [
+      {
+        "type": "new",
+        "text": "Lancement officiel de l'application Kolybri"
+      }
+    ]
+  }
+]
