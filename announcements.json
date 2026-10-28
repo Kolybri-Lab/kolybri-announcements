@@ -1,1 +1,19 @@
-
+[
+  {
+    "id": "welcome-kolybri",
+    "title": "Bienvenue sur Kolybri !",
+    "message": "Découvre une nouvelle expérience pour consulter tes notes, devoirs et emploi du temps ÉcoleDirecte.",
+    "priority": 1
+  },
+  {
+    "id": "discord-community",
+    "title": "Rejoins notre Discord !",
+    "message": "Tu souhaites échanger avec nous, suggérer des fonctionnalités ou signaler un problème ? Viens discuter avec l'équipe et la communauté Kolybri !",
+    "link": {
+      "label": "Rejoindre le Discord",
+      "url": "https://discord.gg/AKAqXfTgvE"
+    },
+    "priority": 2,
+    "disabled": true
+  }
+]
