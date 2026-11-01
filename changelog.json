@@ -1,4 +1,14 @@
 [
+    {
+    "version": "1.2.1",
+    "date": "2026-11-01",
+    "changes": [
+      {
+        "type": "fix",
+        "text": "Optimisation majeure del'écran de l'emploi du temps"
+      }
+    ]
+  },
   {
     "version": "1.2.0",
     "date": "2026-10-29",
