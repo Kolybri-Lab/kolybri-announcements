@@ -1,5 +1,23 @@
 [
-    {
+  {
+    "version": "1.2.2",
+    "date": "2026-11-03",
+    "changes": [
+      {
+        "type": "new",
+        "text": "Possibilité d'activer ou désactiver les animations"
+      },
+      {
+        "type": "improved",
+        "text": "Revue de certains éléments d'interface de l'emploi du temps"
+      },
+      {
+        "type": "fix",
+        "text": "Retrait du bandeau de debug de réseau / actualisation des données"
+      }
+    ]
+  },
+  {
     "version": "1.2.1",
     "date": "2026-11-01",
     "changes": [
